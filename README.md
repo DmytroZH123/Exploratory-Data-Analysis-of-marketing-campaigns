@@ -36,5 +36,5 @@ The data:
 27. Complain - 1 if customer complained within the last 2 years
 28. Country - Country where the customer is located (not from)
 
-
+xfun::pkg_load2(c("htmltools", "mime"))
 xfun::embed_file("test1DmytroZhuk.pdf")
