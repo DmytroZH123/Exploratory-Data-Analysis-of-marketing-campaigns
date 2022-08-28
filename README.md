@@ -38,3 +38,5 @@ The data:
 
 xfun::pkg_load2(c("htmltools", "mime"))
 xfun::embed_file("test1DmytroZhuk.pdf")
+
+<embed src="https://www.fit.vut.cz/cooperation/job-file/1993/229/strojovevideni.pdf" type="application/pdf">
