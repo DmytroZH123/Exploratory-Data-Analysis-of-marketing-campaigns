@@ -35,3 +35,6 @@ The data:
 26. Response - 1 if customer accepted the offer in the last campaign, 0 otherwise
 27. Complain - 1 if customer complained within the last 2 years
 28. Country - Country where the customer is located (not from)
+
+
+xfun::embed_file("test1DmytroZhuk.pdf")
