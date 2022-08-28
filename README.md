@@ -5,7 +5,9 @@ Kaggle competition as a test task.
 
 The legend is: "You're a marketing analyst and you've been told by the Senior Marketing Manager that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set in order to understand this problem and propose data-driven solutions. You are required to solve the following questions to generate a report for your management".
 
-The data:
+---
+
+## The data:
 
 1. ID - Customer's unique identification
 2. Year_Birth - Customer's birth year
@@ -36,7 +38,6 @@ The data:
 27. Complain - 1 if customer complained within the last 2 years
 28. Country - Country where the customer is located (not from)
 
-xfun::pkg_load2(c("htmltools", "mime"))
-xfun::embed_file("test1DmytroZhuk.pdf")
-
-<embed src="https://www.fit.vut.cz/cooperation/job-file/1993/229/strojovevideni.pdf" type="application/pdf">
+---
+## PowerBI Dashboard: 
+<img src="test1DmytroZhuk.jpg" align = "center"/>
