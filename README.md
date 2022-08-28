@@ -11,6 +11,8 @@ To see the full project click on the <a href = "test1DmytoZhuk.ipynb">test1Dmyto
 
 ## The data:
 
+https://www.kaggle.com/datasets/jackdaoud/marketing-data
+
 1. ID - Customer's unique identification
 2. Year_Birth - Customer's birth year
 3. Education - Customer's education
